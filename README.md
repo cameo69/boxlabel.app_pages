@@ -10,7 +10,7 @@ The `index.html` at the root of this branch will be served as the site homepage.
 
 1. Go to the repository **Settings** on GitHub.
 2. Navigate to **Pages** in the left sidebar.
-3. Under **Source**, select the branch containing this `index.html`.
+3. Under **Source**, select the `gh-pages` branch.
 4. Click **Save**.
 
 Your site will be published at `https://<username>.github.io/test_bx_a/`.
