@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3DX5566G4U.com.boxlabel.app",
+        "paths": ["/box/*"]
+      }
+    ]
+  }
+}
