@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:avery-l4730",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Avery",
+  "part": "L4730",
+  "displayName": "Avery L4730",
+  "description": "Mini labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "17.8mm",
+      "height": "10mm",
+      "round": "1.6mm"
+    },
+    "layouts": [
+      {
+        "nx": 10,
+        "ny": 27,
+        "x0": "6mm",
+        "y0": "13mm",
+        "dx": "20.3mm",
+        "dy": "10mm"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  }
+}

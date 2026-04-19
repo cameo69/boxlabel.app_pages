@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:zweckform-4746",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Zweckform",
+  "part": "4746",
+  "displayName": "Zweckform 4746",
+  "description": "Video tape spine labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "416.6pt",
+      "height": "56.6929pt",
+      "round": "5pt"
+    },
+    "layouts": [
+      {
+        "nx": 1,
+        "ny": 13,
+        "x0": "88.8377pt",
+        "y0": "52.2425pt",
+        "dx": "416.6pt",
+        "dy": "56.6929pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  }
+}

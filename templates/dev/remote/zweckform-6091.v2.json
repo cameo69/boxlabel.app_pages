@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:zweckform-6091",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Zweckform",
+  "part": "6091",
+  "displayName": "Zweckform 6091",
+  "description": "Correction labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "183.118pt",
+      "height": "95.811pt"
+    },
+    "layouts": [
+      {
+        "nx": 3,
+        "ny": 8,
+        "x0": "22.961pt",
+        "y0": "37.502pt",
+        "dx": "183.118pt",
+        "dy": "95.881pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  }
+}

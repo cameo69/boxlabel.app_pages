@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:zweckform-j8435b",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Zweckform",
+  "part": "J8435B",
+  "displayName": "Zweckform J8435B",
+  "description": "CD/DVD insert",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "155mm",
+      "height": "122mm"
+    },
+    "layouts": [
+      {
+        "nx": 1,
+        "ny": 1,
+        "x0": "27.5mm",
+        "y0": "21mm",
+        "dx": "155mm",
+        "dy": "122mm"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  },
+  "aliases": [
+    "Zweckform 32250B"
+  ]
+}

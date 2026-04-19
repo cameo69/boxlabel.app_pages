@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:zweckform-4760",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Zweckform",
+  "part": "4760",
+  "displayName": "Zweckform 4760",
+  "description": "Lever arch file labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "544.252pt",
+      "height": "107.717pt",
+      "round": "5.66929pt"
+    },
+    "layouts": [
+      {
+        "nx": 1,
+        "ny": 7,
+        "x0": "25.5118pt",
+        "y0": "43.7386pt",
+        "dx": "544.252pt",
+        "dy": "107.717pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  }
+}

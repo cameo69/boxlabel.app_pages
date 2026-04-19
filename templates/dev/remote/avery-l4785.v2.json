@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:avery-l4785",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Avery",
+  "part": "L4785",
+  "displayName": "Avery L4785",
+  "description": "Name badge labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "80mm",
+      "height": "50mm",
+      "round": "4mm"
+    },
+    "layouts": [
+      {
+        "nx": 2,
+        "ny": 5,
+        "x0": "18mm",
+        "y0": "13mm",
+        "dx": "95mm",
+        "dy": "55mm"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  },
+  "aliases": [
+    "Avery L4784",
+    "Avery L4786",
+    "Avery L4787"
+  ]
+}

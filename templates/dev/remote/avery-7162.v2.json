@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:avery-7162",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Avery",
+  "part": "7162",
+  "displayName": "Avery 7162",
+  "description": "Mailing labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "280.9pt",
+      "height": "96.1pt",
+      "round": "5pt"
+    },
+    "layouts": [
+      {
+        "nx": 2,
+        "ny": 8,
+        "x0": "11.3pt",
+        "y0": "36.8pt",
+        "dx": "290.5pt",
+        "dy": "96.1pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  },
+  "aliases": [
+    "Avery L7162"
+  ]
+}

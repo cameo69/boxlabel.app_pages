@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:zweckform-6021",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Zweckform",
+  "part": "6021",
+  "displayName": "Zweckform 6021",
+  "description": "Multipurpose labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "130.392pt",
+      "height": "47.9055pt"
+    },
+    "layouts": [
+      {
+        "nx": 4,
+        "ny": 16,
+        "x0": "24.0945pt",
+        "y0": "39.6853pt",
+        "dx": "136.913pt",
+        "dy": "47.9055pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  }
+}

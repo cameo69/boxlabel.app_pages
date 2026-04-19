@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:avery-7161",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Avery",
+  "part": "7161",
+  "displayName": "Avery 7161",
+  "description": "Mailing labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "180.2pt",
+      "height": "132.6pt",
+      "round": "7pt"
+    },
+    "layouts": [
+      {
+        "nx": 3,
+        "ny": 6,
+        "x0": "21pt",
+        "y0": "23pt",
+        "dx": "186.9pt",
+        "dy": "132.5pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  },
+  "aliases": [
+    "Avery L7161",
+    "Avery J8161"
+  ]
+}

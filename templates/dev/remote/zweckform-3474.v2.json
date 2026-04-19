@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:zweckform-3474",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Zweckform",
+  "part": "3474",
+  "displayName": "Zweckform 3474",
+  "description": "Address labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "70mm",
+      "height": "37mm"
+    },
+    "layouts": [
+      {
+        "nx": 3,
+        "ny": 8,
+        "x0": "0pt",
+        "y0": "0pt",
+        "dx": "70mm",
+        "dy": "37mm"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  }
+}

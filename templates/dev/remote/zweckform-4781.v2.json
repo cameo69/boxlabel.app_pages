@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:zweckform-4781",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Zweckform",
+  "part": "4781",
+  "displayName": "Zweckform 4781",
+  "description": "Rectangular labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "274.960pt",
+      "height": "119.905pt"
+    },
+    "layouts": [
+      {
+        "nx": 2,
+        "ny": 6,
+        "x0": "22.677pt",
+        "y0": "61.030pt",
+        "dx": "274.960pt",
+        "dy": "119.905pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  }
+}

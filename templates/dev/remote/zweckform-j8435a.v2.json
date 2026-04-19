@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:zweckform-j8435a",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Zweckform",
+  "part": "J8435A",
+  "displayName": "Zweckform J8435A",
+  "description": "CD/DVD booklet",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "155mm",
+      "height": "125mm"
+    },
+    "layouts": [
+      {
+        "nx": 1,
+        "ny": 1,
+        "x0": "27.5mm",
+        "y0": "22mm",
+        "dx": "155mm",
+        "dy": "125mm"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  },
+  "aliases": [
+    "Zweckform 32250A"
+  ]
+}

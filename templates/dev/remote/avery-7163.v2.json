@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:avery-7163",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Avery",
+  "part": "7163",
+  "displayName": "Avery 7163",
+  "description": "Mailing labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "280.9pt",
+      "height": "108pt",
+      "round": "5pt"
+    },
+    "layouts": [
+      {
+        "nx": 2,
+        "ny": 7,
+        "x0": "9.5pt",
+        "y0": "43pt",
+        "dx": "292pt",
+        "dy": "108pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  },
+  "aliases": [
+    "Avery L7163"
+  ]
+}

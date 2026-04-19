@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:avery-6121",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Avery",
+  "part": "6121",
+  "displayName": "Avery 6121",
+  "description": "Multipurpose labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "107.928pt",
+      "height": "60.12pt"
+    },
+    "layouts": [
+      {
+        "nx": 5,
+        "ny": 13,
+        "x0": "26.928pt",
+        "y0": "29.736pt",
+        "dx": "107.928pt",
+        "dy": "60.12pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  }
+}

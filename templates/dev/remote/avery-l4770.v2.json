@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:avery-l4770",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Avery",
+  "part": "L4770",
+  "displayName": "Avery L4770",
+  "description": "Mini labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "45.7mm",
+      "height": "25.4mm",
+      "round": "1.5mm"
+    },
+    "layouts": [
+      {
+        "nx": 4,
+        "ny": 10,
+        "x0": "10mm",
+        "y0": "22mm",
+        "dx": "48.5mm",
+        "dy": "25.4mm"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  },
+  "aliases": [
+    "Avery J8654",
+    "Avery L6140",
+    "Avery L6145",
+    "Avery L7654"
+  ]
+}

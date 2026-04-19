@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:zweckform-3659",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Zweckform",
+  "part": "3659",
+  "displayName": "Zweckform 3659",
+  "description": "Mailing labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "274pt",
+      "height": "120.5pt"
+    },
+    "layouts": [
+      {
+        "nx": 2,
+        "ny": 6,
+        "x0": "22.68pt",
+        "y0": "60pt",
+        "dx": "274pt",
+        "dy": "120.5pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  }
+}

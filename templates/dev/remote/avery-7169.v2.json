@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:avery-7169",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Avery",
+  "part": "7169",
+  "displayName": "Avery 7169",
+  "description": "Shipping labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "280.9pt",
+      "height": "394.0pt",
+      "round": "6pt"
+    },
+    "layouts": [
+      {
+        "nx": 2,
+        "ny": 2,
+        "x0": "14.2pt",
+        "y0": "20.0pt",
+        "dx": "287.7pt",
+        "dy": "394.0pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  },
+  "aliases": [
+    "Avery L7169"
+  ]
+}

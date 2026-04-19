@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:zweckform-32010",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Zweckform",
+  "part": "32010",
+  "displayName": "Zweckform 32010",
+  "description": "Business cards",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "240.94pt",
+      "height": "153.07pt"
+    },
+    "layouts": [
+      {
+        "nx": 2,
+        "ny": 5,
+        "x0": "40pt",
+        "y0": "40pt",
+        "dx": "269pt",
+        "dy": "153pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  }
+}

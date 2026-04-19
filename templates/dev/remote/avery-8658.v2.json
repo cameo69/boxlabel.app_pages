@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:avery-8658",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Avery",
+  "part": "8658",
+  "displayName": "Avery 8658",
+  "description": "ID labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "25.4mm",
+      "height": "10mm",
+      "round": "1mm"
+    },
+    "layouts": [
+      {
+        "nx": 7,
+        "ny": 27,
+        "x0": "5mm",
+        "y0": "13mm",
+        "dx": "28.5mm",
+        "dy": "10.14mm"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  },
+  "aliases": [
+    "Avery J8658",
+    "Avery L8658"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:zweckform-3688",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Zweckform",
+  "part": "3688",
+  "displayName": "Zweckform 3688",
+  "description": "Lever arch file labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "544.252pt",
+      "height": "172.913pt"
+    },
+    "layouts": [
+      {
+        "nx": 1,
+        "ny": 4,
+        "x0": "28.3465pt",
+        "y0": "76.5354pt",
+        "dx": "544.252pt",
+        "dy": "172.913pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  }
+}

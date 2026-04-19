@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:avery-8666",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Avery",
+  "part": "8666",
+  "displayName": "Avery 8666",
+  "description": "Diskette labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "198.4pt",
+      "height": "147.4pt",
+      "round": "5pt"
+    },
+    "layouts": [
+      {
+        "nx": 2,
+        "ny": 5,
+        "x0": "66pt",
+        "y0": "53pt",
+        "dx": "264pt",
+        "dy": "147pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  },
+  "aliases": [
+    "Avery J8666"
+  ]
+}

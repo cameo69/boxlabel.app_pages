@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:avery-8414",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Avery",
+  "part": "8414",
+  "displayName": "Avery 8414",
+  "description": "Business cards",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "246.6pt",
+      "height": "144pt"
+    },
+    "layouts": [
+      {
+        "nx": 2,
+        "ny": 5,
+        "x0": "42pt",
+        "y0": "57.890pt",
+        "dx": "264pt",
+        "dy": "144pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  },
+  "aliases": [
+    "Avery J8414"
+  ]
+}

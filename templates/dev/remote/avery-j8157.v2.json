@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:avery-j8157",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Avery",
+  "part": "J8157",
+  "displayName": "Avery J8157",
+  "description": "Mailing labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "64mm",
+      "height": "24.3mm",
+      "round": "3mm"
+    },
+    "layouts": [
+      {
+        "nx": 3,
+        "ny": 11,
+        "x0": "6.0mm",
+        "y0": "14.0mm",
+        "dx": "66.5mm",
+        "dy": "24.3mm"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  }
+}

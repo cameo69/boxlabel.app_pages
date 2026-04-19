@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:zweckform-3669",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Zweckform",
+  "part": "3669",
+  "displayName": "Zweckform 3669",
+  "description": "Rectangular labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "198.425pt",
+      "height": "144pt"
+    },
+    "layouts": [
+      {
+        "nx": 3,
+        "ny": 5,
+        "x0": "0pt",
+        "y0": "61pt",
+        "dx": "198.425pt",
+        "dy": "144pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  }
+}

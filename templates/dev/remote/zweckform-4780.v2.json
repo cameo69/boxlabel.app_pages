@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:zweckform-4780",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Zweckform",
+  "part": "4780",
+  "displayName": "Zweckform 4780",
+  "description": "Multipurpose labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "137.48pt",
+      "height": "72pt"
+    },
+    "layouts": [
+      {
+        "nx": 4,
+        "ny": 10,
+        "x0": "23pt",
+        "y0": "53.8898pt",
+        "dx": "137.48pt",
+        "dy": "72pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  }
+}

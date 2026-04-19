@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:avery-8651",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Avery",
+  "part": "8651",
+  "displayName": "Avery 8651",
+  "description": "Mini address labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "108pt",
+      "height": "60.09pt",
+      "round": "5pt"
+    },
+    "layouts": [
+      {
+        "nx": 5,
+        "ny": 13,
+        "x0": "13.32pt",
+        "y0": "30.90pt",
+        "dx": "115.09pt",
+        "dy": "60.09pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  },
+  "aliases": [
+    "Avery L8651",
+    "Avery J8651",
+    "Avery J8551",
+    "Avery L7651",
+    "Avery L7551"
+  ]
+}

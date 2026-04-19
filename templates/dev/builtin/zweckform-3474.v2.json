@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "id": "builtin:zweckform-3474",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Zweckform",
+  "part": "3474",
+  "displayName": "Zweckform 3474",
+  "description": "70×37mm universal labels, 3×8 per sheet",
+  "source": {
+    "type": "builtin",
+    "publisher": "boxlabel",
+    "channel": "stable"
+  },
+  "tags": [
+    "zweckform",
+    "sheet",
+    "a4"
+  ],
+  "meta": {
+    "builtIn": true,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "70mm",
+      "height": "37mm"
+    },
+    "layouts": [
+      {
+        "nx": 3,
+        "ny": 8,
+        "x0": "0mm",
+        "y0": "0mm",
+        "dx": "70mm",
+        "dy": "37mm"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  }
+}

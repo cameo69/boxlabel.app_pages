@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:avery-c32011-10",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Avery",
+  "part": "C32011-10",
+  "displayName": "Avery C32011-10",
+  "description": "Business cards",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "85mm",
+      "height": "54mm"
+    },
+    "layouts": [
+      {
+        "nx": 2,
+        "ny": 5,
+        "x0": "15mm",
+        "y0": "13.5mm",
+        "dx": "95mm",
+        "dy": "54mm"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  }
+}

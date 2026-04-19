@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:avery-l4732",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Avery",
+  "part": "L4732",
+  "displayName": "Avery L4732",
+  "description": "Mini labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "35.6mm",
+      "height": "16.9mm",
+      "round": "1.5mm"
+    },
+    "layouts": [
+      {
+        "nx": 5,
+        "ny": 16,
+        "x0": "11mm",
+        "y0": "13mm",
+        "dx": "38.1mm",
+        "dy": "16.9mm"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  }
+}

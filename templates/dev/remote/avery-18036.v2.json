@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "id": "glabels:avery-18036",
+  "revision": 1,
+  "kind": "sheet",
+  "brand": "Avery",
+  "part": "18036",
+  "displayName": "Avery 18036",
+  "description": "Mailing labels",
+  "source": {
+    "type": "glabels",
+    "publisher": "boxlabel",
+    "channel": "dev"
+  },
+  "meta": {
+    "builtIn": false,
+    "readOnly": true,
+    "userVisible": true
+  },
+  "spec": {
+    "page": {
+      "size": "A4"
+    },
+    "label": {
+      "shape": "rectangle",
+      "width": "198pt",
+      "height": "91pt"
+    },
+    "layouts": [
+      {
+        "nx": 3,
+        "ny": 9,
+        "x0": "0pt",
+        "y0": "13pt",
+        "dx": "198pt",
+        "dy": "91pt"
+      }
+    ]
+  },
+  "compatibility": {
+    "renderSupport": "full",
+    "editorSupport": "full"
+  }
+}
