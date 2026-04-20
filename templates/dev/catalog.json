@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "dev",
-  "generatedAt": "2026-04-17T10:21:01.406Z",
+  "generatedAt": "2026-04-20T00:09:45.841Z",
   "templates": [
     {
       "id": "builtin:avery-7165",
@@ -10,6 +10,7 @@
       "brand": "Avery",
       "part": "7165",
       "displayName": "Avery 7165",
+      "description": "A4 · 2×4 · 99.1×67.7 mm",
       "url": "builtin/avery-7165.v2.json",
       "sha256": "d5a8f9dc78c8a2c992d93aa935ba4d47c012c9156aaf7635074197dc7d940fbf"
     },
@@ -20,6 +21,7 @@
       "brand": "Zweckform",
       "part": "3474",
       "displayName": "Zweckform 3474",
+      "description": "A4 · 3×8 · 70×37 mm",
       "url": "builtin/zweckform-3474.v2.json",
       "sha256": "5d450b0a3e2fef75e8686528227e3efff94eadb96bc87edf58c17468649e5e2e"
     },
@@ -30,6 +32,7 @@
       "brand": "Avery",
       "part": "18036",
       "displayName": "Avery 18036",
+      "description": "A4 · 3×9 · 69.9×32.1 mm",
       "url": "remote/avery-18036.v2.json",
       "sha256": "12eeb00ff519258959a15eb11279f0321830c1e304285c62e491c4830b00b1c0"
     },
@@ -40,6 +43,7 @@
       "brand": "Avery",
       "part": "32015",
       "displayName": "Avery 32015",
+      "description": "A4 · 2×4 · 85×54 mm",
       "url": "remote/avery-32015.v2.json",
       "sha256": "b21912ff69d039a87d8b26eb305bec2bfeaa6abc7fa65992cb4ae9cf04702e3e"
     },
@@ -50,6 +54,7 @@
       "brand": "Avery",
       "part": "38931",
       "displayName": "Avery 38931",
+      "description": "A4 · 3×11 · 70×25 mm",
       "url": "remote/avery-38931.v2.json",
       "sha256": "2d88c2048fce9eab467b13747c785425933f837c75a70a27dabf7f8d6fd89a14"
     },
@@ -60,6 +65,7 @@
       "brand": "Avery",
       "part": "6121",
       "displayName": "Avery 6121",
+      "description": "A4 · 5×13 · 38.1×21.2 mm",
       "url": "remote/avery-6121.v2.json",
       "sha256": "79c6191d029ff3d6f9dcf1bf67a674ba4f6568ca02e519517dbe8770c710f76b"
     },
@@ -70,6 +76,7 @@
       "brand": "Avery",
       "part": "7160",
       "displayName": "Avery 7160",
+      "description": "A4 · 3×7 · 64×38.1 mm",
       "url": "remote/avery-7160.v2.json",
       "sha256": "92e13ff837d366516987f1c5b181f160a6c704c7a5fdf7343a090f52bdda5439"
     },
@@ -80,6 +87,7 @@
       "brand": "Avery",
       "part": "7161",
       "displayName": "Avery 7161",
+      "description": "A4 · 3×6 · 63.6×46.8 mm",
       "url": "remote/avery-7161.v2.json",
       "sha256": "8020497ec42089e08d213a549dbb3e6a3660938ddfdcc4b267a59bc42f8454ec"
     },
@@ -90,6 +98,7 @@
       "brand": "Avery",
       "part": "7162",
       "displayName": "Avery 7162",
+      "description": "A4 · 2×8 · 99.1×33.9 mm",
       "url": "remote/avery-7162.v2.json",
       "sha256": "f63c5916718c4ad76cf0bb2cecb27992f197dd9874f66f798bb99309360d0b3b"
     },
@@ -100,6 +109,7 @@
       "brand": "Avery",
       "part": "7163",
       "displayName": "Avery 7163",
+      "description": "A4 · 2×7 · 99.1×38.1 mm",
       "url": "remote/avery-7163.v2.json",
       "sha256": "f78372f5b5eb1d17898460ab5caaf6ba2c84b762b1d1063d66b44abd013e46e8"
     },
@@ -110,6 +120,7 @@
       "brand": "Avery",
       "part": "7164",
       "displayName": "Avery 7164",
+      "description": "A4 · 3×4 · 63.5×72 mm",
       "url": "remote/avery-7164.v2.json",
       "sha256": "a3f69dc6d1c358513ea55e3e66910e6b0a641b9da6148da67782164361fc564b"
     },
@@ -120,6 +131,7 @@
       "brand": "Avery",
       "part": "7165",
       "displayName": "Avery 7165",
+      "description": "A4 · 2×4 · 99.1×67.7 mm",
       "url": "remote/avery-7165.v2.json",
       "sha256": "1b0c25b4bc0883180c80c566e904a1db22bcce8d3eff87e38509e6978c475e35"
     },
@@ -130,6 +142,7 @@
       "brand": "Avery",
       "part": "7169",
       "displayName": "Avery 7169",
+      "description": "A4 · 2×2 · 99.1×139 mm",
       "url": "remote/avery-7169.v2.json",
       "sha256": "cc9c49f86e7bc65f6deb09163d103dd3b340bec5aeae4d55cffa6cda8213c3d6"
     },
@@ -140,6 +153,7 @@
       "brand": "Avery",
       "part": "7414",
       "displayName": "Avery 7414",
+      "description": "A4 · 2×5 · 90×52 mm",
       "url": "remote/avery-7414.v2.json",
       "sha256": "b8aec199f8e5d07fa6f787b56a3c018818d6100866b37faeb9ced28bcd0b10a7"
     },
@@ -150,6 +164,7 @@
       "brand": "Avery",
       "part": "7664",
       "displayName": "Avery 7664",
+      "description": "A4 · 2×4 · 70×71.9 mm",
       "url": "remote/avery-7664.v2.json",
       "sha256": "4a83e872e1f9587cd617ef76624a33363adf8d5da7d536ba0b4004162b917e62"
     },
@@ -160,6 +175,7 @@
       "brand": "Avery",
       "part": "8414",
       "displayName": "Avery 8414",
+      "description": "A4 · 2×5 · 87×50.8 mm",
       "url": "remote/avery-8414.v2.json",
       "sha256": "15ad74a65163d79e1a51896d076e3f9b55f371ac9fa698f3ec5cbaa1590e7513"
     },
@@ -170,6 +186,7 @@
       "brand": "Avery",
       "part": "8435A",
       "displayName": "Avery 8435A",
+      "description": "A4 · 1×1 · 155×125 mm",
       "url": "remote/avery-8435a.v2.json",
       "sha256": "d952c094921feb3db91140077a608418f110ec704158cda3f422ade20a3e68d5"
     },
@@ -180,6 +197,7 @@
       "brand": "Avery",
       "part": "8435B",
       "displayName": "Avery 8435B",
+      "description": "A4 · 1×1 · 155×122 mm",
       "url": "remote/avery-8435b.v2.json",
       "sha256": "26ae48d58a5b2e9d0327a34ef95934c72a473598bc3a87b578317f0c47699cea"
     },
@@ -190,6 +208,7 @@
       "brand": "Avery",
       "part": "8651",
       "displayName": "Avery 8651",
+      "description": "A4 · 5×13 · 38.1×21.2 mm",
       "url": "remote/avery-8651.v2.json",
       "sha256": "42b4c29b7f11d89ac818681ad3652e8f392d8fba87f0eab9f3e2b323a8bb200c"
     },
@@ -200,6 +219,7 @@
       "brand": "Avery",
       "part": "8658",
       "displayName": "Avery 8658",
+      "description": "A4 · 7×27 · 25.4×10 mm",
       "url": "remote/avery-8658.v2.json",
       "sha256": "edd5af1c74e4f565f9c9900f3ad5e5cddb9844f7f789a753962dee0655b2b892"
     },
@@ -210,6 +230,7 @@
       "brand": "Avery",
       "part": "8666",
       "displayName": "Avery 8666",
+      "description": "A4 · 2×5 · 70×52 mm",
       "url": "remote/avery-8666.v2.json",
       "sha256": "caead519a88f38e7ae058ca6ec5678d10cd4be14cfff99d93dbe4c8b2db0d5a5"
     },
@@ -220,6 +241,7 @@
       "brand": "Avery",
       "part": "C32011-10",
       "displayName": "Avery C32011-10",
+      "description": "A4 · 2×5 · 85×54 mm",
       "url": "remote/avery-c32011-10.v2.json",
       "sha256": "31fd57e2d14992841195b95eb6e68bb7fee364952fd95b9ef587940bc2e51475"
     },
@@ -230,6 +252,7 @@
       "brand": "Avery",
       "part": "J8157",
       "displayName": "Avery J8157",
+      "description": "A4 · 3×11 · 64×24.3 mm",
       "url": "remote/avery-j8157.v2.json",
       "sha256": "b700bec5eb495b57038c6a36f0310c7a1c9c7a462afc38237475c8c597df0723"
     },
@@ -240,6 +263,7 @@
       "brand": "Avery",
       "part": "L4730",
       "displayName": "Avery L4730",
+      "description": "A4 · 10×27 · 17.8×10 mm",
       "url": "remote/avery-l4730.v2.json",
       "sha256": "da932b6c8349e55d25135c2925f43d52cd436a356ed517ab46eb93736ed7f78f"
     },
@@ -250,6 +274,7 @@
       "brand": "Avery",
       "part": "L4732",
       "displayName": "Avery L4732",
+      "description": "A4 · 5×16 · 35.6×16.9 mm",
       "url": "remote/avery-l4732.v2.json",
       "sha256": "5d586a339327f82ec69d981a2cdd0807521e14d8a2255eab8f593a2a70941625"
     },
@@ -260,6 +285,7 @@
       "brand": "Avery",
       "part": "L4770",
       "displayName": "Avery L4770",
+      "description": "A4 · 4×10 · 45.7×25.4 mm",
       "url": "remote/avery-l4770.v2.json",
       "sha256": "ac66b1e6f0ecd35ac909205c7cb9990f85088597c8a8344f883a1d102dabef55"
     },
@@ -270,6 +296,7 @@
       "brand": "Avery",
       "part": "L4785",
       "displayName": "Avery L4785",
+      "description": "A4 · 2×5 · 80×50 mm",
       "url": "remote/avery-l4785.v2.json",
       "sha256": "63711254fe8d9bbb53f168bb19e98ee9724d69a02d791e7ae6fc29110ae28093"
     },
@@ -280,6 +307,7 @@
       "brand": "Zweckform",
       "part": "32010",
       "displayName": "Zweckform 32010",
+      "description": "A4 · 2×5 · 85×54 mm",
       "url": "remote/zweckform-32010.v2.json",
       "sha256": "c908e2a08e0afa63afce7444fefe3f79dec43061bedede763f92682ac57a161c"
     },
@@ -290,6 +318,7 @@
       "brand": "Zweckform",
       "part": "32015",
       "displayName": "Zweckform 32015",
+      "description": "A4 · 2×4 · 85×54 mm",
       "url": "remote/zweckform-32015.v2.json",
       "sha256": "7a9d1e81babe5675ec812c39b9a88203eac70043659b433742d2ffc84e0da57f"
     },
@@ -300,6 +329,7 @@
       "brand": "Zweckform",
       "part": "3348",
       "displayName": "Zweckform 3348",
+      "description": "A4 · 3×7 · 67×38 mm",
       "url": "remote/zweckform-3348.v2.json",
       "sha256": "1efbc7e9c8665c27f3afbbe8af1448b2adfaa698f447280a7afb21de3f7849a8"
     },
@@ -310,6 +340,7 @@
       "brand": "Zweckform",
       "part": "3474",
       "displayName": "Zweckform 3474",
+      "description": "A4 · 3×8 · 70×37 mm",
       "url": "remote/zweckform-3474.v2.json",
       "sha256": "95b5a59dd4375555a31a33dd01eb0a44cc4a9157451ab89c0a0e6437d85e915c"
     },
@@ -320,6 +351,7 @@
       "brand": "Zweckform",
       "part": "3475",
       "displayName": "Zweckform 3475",
+      "description": "A4 · 3×8 · 70.1×36 mm",
       "url": "remote/zweckform-3475.v2.json",
       "sha256": "52761c8e8d7dd77cb0850aa508bbee51827df5bb057f44bda0d95c2a85f54e03"
     },
@@ -330,6 +362,7 @@
       "brand": "Zweckform",
       "part": "3477",
       "displayName": "Zweckform 3477",
+      "description": "A4 · 2×7 · 105×41 mm",
       "url": "remote/zweckform-3477.v2.json",
       "sha256": "647ce06a7a1eaa5c34821535f753ee5fceb705581577566b8e0190aa90050a61"
     },
@@ -340,6 +373,7 @@
       "brand": "Zweckform",
       "part": "3490",
       "displayName": "Zweckform 3490",
+      "description": "A4 · 3×8 · 70×36 mm",
       "url": "remote/zweckform-3490.v2.json",
       "sha256": "b7cf08de9b51c5ad9bc3dfff8d92bb953187892e5c63f5390aac548e18aeec5c"
     },
@@ -350,6 +384,7 @@
       "brand": "Zweckform",
       "part": "3651",
       "displayName": "Zweckform 3651",
+      "description": "A4 · 4×10 · 52×29.5 mm",
       "url": "remote/zweckform-3651.v2.json",
       "sha256": "6497d5214a26256ec252801c7f3654f0bfe4dcbe4415ea028d1e20331daad47c"
     },
@@ -360,6 +395,7 @@
       "brand": "Zweckform",
       "part": "3659",
       "displayName": "Zweckform 3659",
+      "description": "A4 · 2×6 · 96.7×42.5 mm",
       "url": "remote/zweckform-3659.v2.json",
       "sha256": "d7d310979dc142a77af5b4a3e483f7a684dee2dc938414618f6a338ec12a1034"
     },
@@ -370,6 +406,7 @@
       "brand": "Zweckform",
       "part": "3669",
       "displayName": "Zweckform 3669",
+      "description": "A4 · 3×5 · 70×50.8 mm",
       "url": "remote/zweckform-3669.v2.json",
       "sha256": "810ccff27fd6fae7ee9d3488504945edfceeb54eaa6e7a84621972db902e1c30"
     },
@@ -380,6 +417,7 @@
       "brand": "Zweckform",
       "part": "3688",
       "displayName": "Zweckform 3688",
+      "description": "A4 · 1×4 · 192×61 mm",
       "url": "remote/zweckform-3688.v2.json",
       "sha256": "2e057d9664fc81e43a569a3e7770af41c1187cb9c6754956789d50b641ce1ed8"
     },
@@ -390,6 +428,7 @@
       "brand": "Zweckform",
       "part": "4732",
       "displayName": "Zweckform 4732",
+      "description": "A4 · 5×16 · 36×17 mm",
       "url": "remote/zweckform-4732.v2.json",
       "sha256": "8e5ef2cab97b7671d9940d2d8914e3b30bd7adf733695730cb8cf5a79505b599"
     },
@@ -400,6 +439,7 @@
       "brand": "Zweckform",
       "part": "4746",
       "displayName": "Zweckform 4746",
+      "description": "A4 · 1×13 · 147×20 mm",
       "url": "remote/zweckform-4746.v2.json",
       "sha256": "6e57a966c047f10d0e9b788f1ef5199c656e86db7916acf7ac9556329fd67a08"
     },
@@ -410,6 +450,7 @@
       "brand": "Zweckform",
       "part": "4760",
       "displayName": "Zweckform 4760",
+      "description": "A4 · 1×7 · 192×38 mm",
       "url": "remote/zweckform-4760.v2.json",
       "sha256": "45364f5d318fc3533facabbdbf55574269c47c6f3ab88985fd03588e5930764e"
     },
@@ -420,6 +461,7 @@
       "brand": "Zweckform",
       "part": "4761",
       "displayName": "Zweckform 4761",
+      "description": "A4 · 1×4 · 192×61 mm",
       "url": "remote/zweckform-4761.v2.json",
       "sha256": "f12f793c50c754b495116e7b03b90fb5e8ba5571a1c2db656f225ebed70a0583"
     },
@@ -430,6 +472,7 @@
       "brand": "Zweckform",
       "part": "4780",
       "displayName": "Zweckform 4780",
+      "description": "A4 · 4×10 · 48.5×25.4 mm",
       "url": "remote/zweckform-4780.v2.json",
       "sha256": "6208af76fd4541b1968d212da13c316ac49fa79e2c18b47ba214dc1b597eed05"
     },
@@ -440,6 +483,7 @@
       "brand": "Zweckform",
       "part": "4781",
       "displayName": "Zweckform 4781",
+      "description": "A4 · 2×6 · 97×42.3 mm",
       "url": "remote/zweckform-4781.v2.json",
       "sha256": "ca4a4f45fa98c3a9d6fb8a84a400c6dea343628f5d6d46cafa8de2d9fd959d93"
     },
@@ -450,6 +494,7 @@
       "brand": "Zweckform",
       "part": "6021",
       "displayName": "Zweckform 6021",
+      "description": "A4 · 4×16 · 46×16.9 mm",
       "url": "remote/zweckform-6021.v2.json",
       "sha256": "1b8c517f40aedd743f946a7b919bdfa96bc18eef36335e33ac437918e2afc34d"
     },
@@ -460,6 +505,7 @@
       "brand": "Zweckform",
       "part": "6091",
       "displayName": "Zweckform 6091",
+      "description": "A4 · 3×8 · 64.6×33.8 mm",
       "url": "remote/zweckform-6091.v2.json",
       "sha256": "0f1227052663b3d11e4bc5b810669c4775feb885e100cb2b40a906bb0e03270b"
     },
@@ -470,6 +516,7 @@
       "brand": "Zweckform",
       "part": "J8435A",
       "displayName": "Zweckform J8435A",
+      "description": "A4 · 1×1 · 155×125 mm",
       "url": "remote/zweckform-j8435a.v2.json",
       "sha256": "5c5f00e1fc0ebe70e0c1368dd1e555fc2095566af53bddfb08c2b66a49847b57"
     },
@@ -480,6 +527,7 @@
       "brand": "Zweckform",
       "part": "J8435B",
       "displayName": "Zweckform J8435B",
+      "description": "A4 · 1×1 · 155×122 mm",
       "url": "remote/zweckform-j8435b.v2.json",
       "sha256": "c43055e96f166d291e1f36e91e276e4dc4e91170b1e7e7be3eb727d11ae1631c"
     }
